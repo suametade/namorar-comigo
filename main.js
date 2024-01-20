@@ -10,7 +10,7 @@ yesButton.addEventListener('click', () => {
     
     yesButton.style.display = 'none';
     noButton.style.display = 'none';
-    title.innerHTML = "Agora é minha namorada para toda a vida";
+    title.innerHTML = "Agora é meu namorado para toda a vida";
     youtubeFrame.innerHTML += "<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/Me5ZBOFT72w?si=8tPxDkaRvRdjmaMe&amp;start=5&amp;autoplay=1&amp;loop=1' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
 })
 
